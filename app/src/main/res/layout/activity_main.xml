@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/result_tv"
         android:text="0"
-        android:textSize="64dp"
+        android:textSize="65dp"
         android:textAlignment="textEnd"
         android:textColor="@color/black"
         android:layout_above="@+id/buttons_layout"
